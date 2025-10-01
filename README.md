@@ -41,3 +41,4 @@ This project is licensed under the **MIT License** – feel free to use and adap
 ---
 
 ⭐ Don’t forget to check out the live portfolio and explore my projects!
+Live link : https://8000-aa7fb1a0-e69d-4ce9-8c89-1c8fd2c811bc.proxy.daytona.works/
