@@ -1,0 +1,98 @@
+BONTHAPALLY ANUSHA NAGESHWAR
+Hyderabad, Telangana Ph No-9320944833
+anushabonthapally@gmail.com
+LinkedIn
+GitHub
+
+Portfolio
+
+Profile Summary
+•
+
+Full Stack Developer with expertise in building dynamic web applications using React.js and the MERN stack.
+
+•
+
+Proficient in Machine Learning and Generative AI, leveraging TensorFlow to develop scalable models.
+
+•
+
+Skilled in making web applications , Firebase and Google Cloud.
+
+Relevant Coursework
+•
+
+MERN Stack
+
+•
+
+Python Full Stack
+
+• Generative AI
+
+AI/ML
+
+UI/UX
+
+Experience
+Eduskills– Python Full Stack Intern
+•
+Developing and optimizing Meditation in Virtual Reality.
+•
+Enhancing Immersive Environment Expansion, Audio Enhancements, Personalization with AI.
+•
+
+Jun 2025 – July 2025
+
+Helps users in immersive, and stress-relieving meditation experience that improves mental well-being anytime, anywhere.
+
+InternPro – Aicte Internship on Java Full Stack Development
+July 2025 – Aug 2025
+•
+Developed an AI-powered Personal Document Vault, achieving 95%+ Authentication accuracy and Encryption Reliability.
+•
+Completed a 6-week project-based internship, gaining hands-on experience in Java full stack, Security Implementation, and
+Database Experience.
+
+Projects
+GenAI | React js, TensorFlow, Flutter, Firebase, Google Cloud | Live Website
+Mar 2025
+• Build an AI-powered, multilingual, and explainable tool that detects, verifies, and explains misinformation across web,
+
+mobile, extensions, and chat platforms in real time.
+• Developed an AI-based misinformation detection prototype that verifies content with a credibility score, provides
+explanations, and supports multilingual and cross-platform access.
+Web Application | Python with Pandas and NumPy on Google Colab | Web Development
+Nov 2024
+• Designed to recommend the most suitable crops based on soil type, weather patterns, and historical yields.
+• To help farmers make informed crop decisions, improving productivity and sustainability.
+• By suggesting the best crops for their soil and climate, increasing yield and income while reducing risks.
+
+Technical Skills
+Development Tools: GitHub, Figma, VS Code, Firebase, Flutter
+Languages: Python, JavaScript, C, Java, SQL, HTML, CSS
+Technologies/Frameworks: React.js, Node.js, Firebase, MongoDB, MERN Stack, Pandas, NumPy, TensorFlow .
+
+Education
+Nalla Narasimha Reddy College of Engineering
+Bachelor of Computer Science – CGPA: 8.56
+
+Extracurricular / Certifications
+•
+•
+•
+•
+•
+•
+
+Gen AI Powered Data Analytics(TATA) - Certificate
+Google Cloud: Prompt Design in Vertex AI - Certificate
+EduSkills : Python Full Stack Web Development - Certificate
+ACMEGRADE : Internship on Web Develepment - Certificate
+SQL(Hacker Rank) - Certificate
+Introduction to SQL - Certificate
+
+Nov 2022 – Present
+Hyderabad, Telangana
+
+
