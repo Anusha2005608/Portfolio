@@ -41,4 +41,4 @@ This project is licensed under the **MIT License** – feel free to use and adap
 ---
 
 ⭐ Don’t forget to check out the live portfolio and explore my projects!
-Live link : https://sites.super.myninja.ai/f9ddc005-e3fd-4d9f-8b2f-c606398327f4/6a53d56e/index.html?_gl=1*1gsa3pk*_gcl_au*NTMxNDI4NDQ5LjE3NTkzMTc2NTE.*_ga*NTQyNjEwMzQzLjE3NTkzMTc2NTE.*_ga_8NW18Q4WF2*czE3NTk0NzcxODYkbzMkZzEkdDE3NTk0Nzc3NjEkajYwJGwwJGgxMzEzMTc0MTc3
+Live link : https://sites.super.myninja.ai/f9ddc005-e3fd-4d9f-8b2f-c606398327f4/6a53d56e/index.html?_gl=1*11erpv2*_gcl_au*MjEzMjA5MDA0Mi4xNzU5NDk4NzU5*_ga*NzAxMzE1NDU2LjE3NTk0OTg3NjA.*_ga_8NW18Q4WF2*czE3NTk0OTg3NTkkbzEkZzEkdDE3NTk0OTk0OTQkajUyJGwwJGg5MTM2OTAxMzA.
